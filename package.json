@@ -1,0 +1,16 @@
+{
+"name": "orientalprosperitypg",
+"theme": "oriental prosperity pg",
+"version": "8.6.8",
+"description": "oriental prosperity pg สมัครเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"oriental prosperity pg",
+"oriental prosperity pg เครดิตฟรี",
+"oriental prosperity pg ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/orientalprosperitypg",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
